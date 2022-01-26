@@ -37,12 +37,7 @@
 
 ![screenshot](https://github.com/braisgr/404-not-found-challenge/blob/main/404_screen.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+404 Not Found challenge. It's my first challenge. Trying to replicate the original style. I would like to have feedback to know if there is any error in the code or something that I could improve or do in a more efficient way.
 
 ### Built With
 

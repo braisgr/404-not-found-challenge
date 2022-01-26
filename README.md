@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://not-found-devchallenges-4430a.web.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/MdWAJbeRN4jjXXmFXoFb">
       Solution
     </a>
     <span> | </span>
